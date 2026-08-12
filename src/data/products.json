@@ -1,0 +1,806 @@
+[
+  {
+    "id": "item-001",
+    "name": "Chilled Luxury Beverage Cooler",
+    "price": 14800,
+    "originalPrice": 18500,
+    "description": "Premium beverage cooling system designed for optimal temperature. Features advanced thermal technology and minimalist aesthetics for the modern bar.",
+    "category": "Essentials",
+    "image": "https://framerusercontent.com/images/bcpGrpWZOizFDiFHHCIQvJjZLNU.mp4",
+    "images": [
+      "https://framerusercontent.com/images/bcpGrpWZOizFDiFHHCIQvJjZLNU.mp4"
+    ],
+    "rating": 4.9,
+    "reviews": 86,
+    "featured": true,
+    "stock": 15,
+    "offers": [
+      "Bank Offer: 10% instant discount on select cards",
+      "Special Price: Get extra ₹3700 off",
+      "No Cost EMI available"
+    ],
+    "highlights": [
+      "Advanced Thermal Tech",
+      "Minimalist Design",
+      "Energy Efficient",
+      "Quiet Operation"
+    ],
+    "specifications": {
+      "Capacity": "45 Liters",
+      "Cooling Technology": "Dual-Core Thermoelectric",
+      "Temperature Range": "3°C - 18°C",
+      "Noise Level": "25dB (Ultra Quiet)",
+      "Material": "Tempered Glass & Aircraft Grade Aluminum",
+      "Energy Rating": "Elite Efficiency"
+    },
+    "warranty": "2 Year Comprehensive Warranty",
+    "replacement": "10 Days Replacement",
+    "cod": true
+  },
+  {
+    "id": "item-002",
+    "name": "Chanel N°5 Eau de Parfum",
+    "price": 13200,
+    "originalPrice": 16500,
+    "description": "The essence of femininity. A timeless, powdery floral bouquet housed in the iconic minimalist bottle. A true fragrance legend.",
+    "category": "Essentials",
+    "image": "https://framerusercontent.com/images/ExLgHVb54Wo1OL7i0l6sNgmvY.png?width=1920&height=1080",
+    "images": [
+      "https://framerusercontent.com/images/ExLgHVb54Wo1OL7i0l6sNgmvY.png?width=1920&height=1080"
+    ],
+    "rating": 4.9,
+    "reviews": 1250,
+    "featured": true,
+    "stock": 42,
+    "offers": [
+      "Fragrance Deal: Buy 2 get 15% off",
+      "Exclusive Brand Packaging included"
+    ],
+    "highlights": [
+      "Powdery Floral Bouquet",
+      "Iconic Bottle Design",
+      "Long-lasting Scent",
+      "Classic Fragrance"
+    ],
+    "specifications": {
+      "Fragrance Family": "Floral",
+      "Concentration": "Eau de Parfum",
+      "Top Notes": "Aldehydes, Ylang-Ylang, Neroli",
+      "Heart Notes": "Jasmine, May Rose",
+      "Base Notes": "Sandalwood, Vanilla",
+      "Volume": "100ml"
+    },
+    "warranty": "100% Authentic Product Guarantee",
+    "replacement": "7 Days Return Policy",
+    "cod": false
+  },
+  {
+    "id": "item-003",
+    "name": "Red Diamond Intense Fragrance",
+    "price": 11600,
+    "originalPrice": 14500,
+    "description": "A bold, seductive fragrance with notes of dark cherry, crimson rose, and amber. Housed in a striking ruby-glass vessel.",
+    "category": "Essentials",
+    "image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&q=80&w=800",
+    "images": [
+      "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&q=80&w=800"
+    ],
+    "rating": 4.8,
+    "reviews": 562,
+    "featured": true,
+    "stock": 12,
+    "offers": [
+      "Special Launch Offer",
+      "EMI starts from ₹562/month"
+    ],
+    "highlights": [
+      "Bold & Seductive",
+      "Ruby-glass Vessel",
+      "Intense Aroma",
+      "Premium Gift Box"
+    ],
+    "specifications": {
+      "Fragrance Family": "Oriental Floral",
+      "Concentration": "Intense Parfum",
+      "Main Accords": "Cherry, Amber, Rose",
+      "Vessel Material": "Hand-blown Ruby Glass",
+      "Volume": "50ml"
+    },
+    "warranty": "Authentic Brand Product",
+    "replacement": "7 Days Replacement",
+    "cod": true
+  },
+  {
+    "id": "item-004",
+    "name": "My Variations Sonic Toothbrush",
+    "price": 10000,
+    "originalPrice": 12500,
+    "description": "Advanced sonic technology meets minimalist design. Developed by specialists to provide a superior, professional clean at home.",
+    "category": "Essentials",
+    "image": "https://framerusercontent.com/images/vxUgVk5RqXE0dic4dDKuSJH1NmM.png?scale-down-to=2048&width=2092&height=1209",
+    "images": [
+      "https://framerusercontent.com/images/vxUgVk5RqXE0dic4dDKuSJH1NmM.png?scale-down-to=2048&width=2092&height=1209"
+    ],
+    "rating": 4.9,
+    "reviews": 85,
+    "featured": true,
+    "stock": 120,
+    "offers": [
+      "Professional Dental Kit included",
+      "Extra brush heads available at 50% discount"
+    ],
+    "highlights": [
+      "35,000 Vibrations/min",
+      "3 Cleaning Modes",
+      "2-Week Battery Life",
+      "Specialist Developed"
+    ],
+    "specifications": {
+      "Sonic Frequency": "40,000 VPM",
+      "Battery Type": "Lithium-Ion Rechargeable",
+      "Charging Time": "4 Hours",
+      "Water Resistance": "IPX7 Waterproof",
+      "Modes": "Clean, Sensitive, Whitening"
+    },
+    "warranty": "1 Year Replacement Warranty",
+    "replacement": "30 Days Trial Policy",
+    "cod": true
+  },
+  {
+    "id": "item-005",
+    "name": "Beyou Skincare Collection",
+    "price": 6800,
+    "originalPrice": 8500,
+    "description": "A comprehensive 6-piece daily regimen including Vitamin C cleanser and Retinol serum for a complete radiant glow.",
+    "category": "Essentials",
+    "image": "https://framerusercontent.com/images/MVIhaeNZhp5o9C87KyRac5JBuQ.mp4",
+    "rating": 4.8,
+    "reviews": 210,
+    "featured": true,
+    "stock": 50,
+    "offers": [
+      "Skincare Routine Guide included",
+      "Free Sample of Hydrating Mask"
+    ],
+    "highlights": [
+      "6-Piece Set",
+      "Vitamin C Infused",
+      "Dermatologically Tested",
+      "Complete Skin Renewal"
+    ],
+    "specifications": {
+      "Set Includes": "Cleanser, Toner, Vitamin C Serum, Retinol, Moisturizer, SPF",
+      "Skin Type": "All Skin Types",
+      "Key Ingredients": "Vitamin C, Retinol, Hyaluronic Acid",
+      "Scent": "Natural Citrus"
+    },
+    "warranty": "Brand Sealed Product",
+    "replacement": "Non-Returnable once opened",
+    "cod": true
+  },
+  {
+    "id": "item-006",
+    "name": "Medik8 Skin Transformation Kit",
+    "price": 3600,
+    "originalPrice": 4500,
+    "description": "Professional-grade hydration and environmental protection. Formulated for visible results and long-term skin health.",
+    "category": "Essentials",
+    "image": "https://framerusercontent.com/images/DCYRHRE0IzPlFAucz8KVHMNX8.png?scale-down-to=1024&width=2092&height=1209",
+    "rating": 4.9,
+    "reviews": 86,
+    "featured": true,
+    "stock": 25,
+    "offers": [
+      "Expert Consultation included",
+      "Subscribe & Save 10%"
+    ],
+    "highlights": [
+      "CSA Philosophy",
+      "Vitamin C & A included",
+      "Eco-friendly Packaging",
+      "Visible Transformation"
+    ],
+    "specifications": {
+      "Kit Philosophy": "Cleanse, Vitamin C, SPF, Vitamin A",
+      "Key Benefits": "Anti-aging, Brightening, Protection",
+      "Target Concern": "Fine Lines, Texture, Resilience",
+      "Product Type": "Clinical Regimen Set"
+    },
+    "warranty": "Authentic Clinical Brand",
+    "replacement": "7 Days Return Policy",
+    "cod": true
+  },
+  {
+    "id": "item-007",
+    "name": "Interactive 3D Product Viewer",
+    "price": 39900,
+    "originalPrice": 49900,
+    "description": "Custom high-fidelity 3D product visualization service. Includes interactive viewer integration for immersive e-commerce experiences.",
+    "category": "Studio",
+    "image": "https://framerusercontent.com/images/TPSEHRBNahpRHYLZ1SmKJ1p5rc.mp4",
+    "rating": 4.9,
+    "reviews": 24,
+    "featured": true,
+    "stock": 100,
+    "offers": [
+      "Bulk Pricing for Asset Libraries",
+      "Free Maintenance for 6 Months"
+    ],
+    "highlights": [
+      "4K WebGL Rendering",
+      "AR Ready Assets",
+      "Cross-Platform Support",
+      "High Conversion Rates"
+    ],
+    "specifications": {
+      "Rendering Engine": "WebGL 2.0",
+      "Max Resolution": "Uncapped (Dynamic)",
+      "File Formats": "GLB, GLTF, USDZ",
+      "Integration": "React, Vue, Static HTML",
+      "Animation Support": "Yes (Rigged Assets)"
+    },
+    "warranty": "Technical Support Included",
+    "replacement": "Customized Service Policy",
+    "cod": false
+  },
+  {
+    "id": "item-008",
+    "name": "Heritage Chronograph Watch",
+    "price": 340000,
+    "originalPrice": 425000,
+    "description": "A masterpiece of Swiss engineering. Mechanical chronograph features a white dial and premium hand-stitched alligator leather strap.",
+    "category": "Watches",
+    "image": "https://framerusercontent.com/images/jP97aRqH2GvubFOZeZiN9ilWi4.png?scale-down-to=2048&width=2092&height=1209",
+    "rating": 5.0,
+    "reviews": 12,
+    "featured": true,
+    "stock": 3,
+    "offers": [
+      "VIP Concierge Delivery",
+      "Lifetime Service Plan included"
+    ],
+    "highlights": [
+      "Swiss Automatic Movement",
+      "Alligator Leather Strap",
+      "Sapphire Crystal",
+      "Limited Edition #/500"
+    ],
+    "specifications": {
+      "Movement": "Automatic Caliber H-10",
+      "Case Material": "316L Stainless Steel",
+      "Strap": "Authentic Alligator Leather",
+      "Water Resistance": "100 Meters / 10 ATM",
+      "Power Reserve": "80 Hours",
+      "Case Diameter": "42mm"
+    },
+    "warranty": "5 Year International Warranty",
+    "replacement": "High-Value Item Inspection Only",
+    "cod": false
+  },
+  {
+    "id": "item-009",
+    "name": "JOLT Muscle Recovery Gun",
+    "price": 11640,
+    "originalPrice": 14550,
+    "description": "Professional deep tissue percussion massager. Designed for athletes to support muscle recovery and relieve tension.",
+    "category": "Essentials",
+    "image": "https://framerusercontent.com/images/O8XKmcq9sPEFAnanxx4shArYo.mp4",
+    "rating": 4.6,
+    "reviews": 320,
+    "featured": true,
+    "stock": 85,
+    "offers": [
+      "Athletic Kit included",
+      "Free Shipping this week"
+    ],
+    "highlights": [
+      "High-Torque Motor",
+      "5 Speed Settings",
+      "Portable Carrying Case",
+      "Deep Tissue Impact"
+    ],
+    "specifications": {
+      "Motor Type": "High-Torque Brushless",
+      "Percussion Depth": "12mm",
+      "Speed Range": "1600 - 3200 PPM",
+      "Battery Life": "6 Hours Ultra-Long",
+      "Weight": "1.1kg"
+    },
+    "warranty": "1 Year Brand Warranty",
+    "replacement": "7 Days Return Policy",
+    "cod": true
+  },
+  {
+    "id": "item-010",
+    "name": "Essential Heather Tee",
+    "price": 2560,
+    "originalPrice": 3200,
+    "description": "A premium, soft-touch heathered t-shirt crafted from a breathable cotton-poly blend for perfect daily comfort. Optimized for mission pairing with tactical shoes.",
+    "category": "Shoes",
+    "image": "https://framerusercontent.com/images/sAeo5d2sebZSKf6CN7HEtOtJ9k.mp4",
+    "rating": 4.8,
+    "reviews": 1240,
+    "featured": true,
+    "stock": 210,
+    "offers": [
+      "Buy 3 for ₹6500",
+      "Student Discount: Flat 10% off"
+    ],
+    "highlights": [
+      "Breathable Cotton Blend",
+      "Minimalist Fit",
+      "Eco-dyed Fabric",
+      "Pre-shrunk Logic"
+    ],
+    "specifications": {
+      "Material": "80% Organic Cotton, 20% Recycled Poly",
+      "GSM": "180 (Premium Weight)",
+      "Fit": "Modern Tailored Fit",
+      "Neck": "Classic Ribbed Crew Neck",
+      "Wash Care": "Machine Wash Cold"
+    },
+    "warranty": "Quality Guaranteed",
+    "replacement": "15 Days Size Exchange",
+    "cod": true
+  },
+  {
+    "id": "item-011",
+    "name": "Radiant Moisturizing Lip Cream",
+    "price": 2800,
+    "originalPrice": 3500,
+    "description": "Ultra-hydrating lip cream with a glossy finish. Provides long-lasting color and deep nourishment for healthy lips.",
+    "category": "Essentials",
+    "image": "https://framerusercontent.com/images/sMdrZIJU4EABjz6YotU7mXGVXQ0.png?width=2037&height=1228",
+    "rating": 4.9,
+    "reviews": 112,
+    "featured": true,
+    "stock": 15,
+    "offers": [
+      "Lip Liner Mini for free",
+      "Exclusive Beauty Rewards"
+    ],
+    "highlights": [
+      "Glossy Finish",
+      "Deep Hydration",
+      "Non-sticky Formula",
+      "8H Color Stay"
+    ],
+    "specifications": {
+      "Finish": "High-Shine Gloss",
+      "Hydration": "Hyaluronic & Shea",
+      "Wear Time": "Up to 8 Hours",
+      "Cruelty-Free": "Yes",
+      "Shade": "Crystal Radiant"
+    },
+    "warranty": "Authentic Beauty Product",
+    "replacement": "7 Days Policy",
+    "cod": true
+  },
+  {
+    "id": "item-012",
+    "name": "Clarins Double Serum Edition",
+    "price": 7600,
+    "originalPrice": 9500,
+    "description": "Iconic complete anti-aging treatment with 21 potent plant extracts. Smooths, hydrates, and restores skin radiance.",
+    "category": "Essentials",
+    "image": "https://framerusercontent.com/images/1XxtXgM4EYWbVniKeqQRnb32M.png?scale-down-to=2048&width=2093&height=1209",
+    "rating": 4.9,
+    "reviews": 142,
+    "featured": true,
+    "stock": 10,
+    "offers": [
+      "Travel Kit with this purchase",
+      "Double Points on Beauty Card"
+    ],
+    "highlights": [
+      "21 Plant Extracts",
+      "Anti-aging Powerhouse",
+      "Hydric + Lipidic System",
+      "Dermatologist Tested"
+    ],
+    "specifications": {
+      "Main Ingredient": "Turmeric - Radiant Boost",
+      "Key Benefit": "Firming & Skin Renewal",
+      "Texture": "Bi-Phase Serum",
+      "Skin Type": "Mature / All Types",
+      "Usage": "Morning & Night"
+    },
+    "warranty": "Clarins Official Product",
+    "replacement": "7 Days Return Policy",
+    "cod": true
+  },
+  {
+    "id": "item-013",
+    "name": "Osee Studio Photography Backdrop",
+    "price": 5200,
+    "originalPrice": 6500,
+    "description": "Professional high-reflection white background for high-end product photography. Meets all Amazon and Shopify requirements.",
+    "category": "Essentials",
+    "image": "https://framerusercontent.com/images/hSa8QdWqhWGScfglCnSNxfAFo.webp?scale-down-to=2048&width=2560&height=1342",
+    "rating": 3.5,
+    "reviews": 100,
+    "featured": true,
+    "stock": 9,
+    "offers": [
+      "Photography Tips Guide included",
+      "Clip Kit for ₹200 extra"
+    ],
+    "highlights": [
+      "High Reflectivity",
+      "Seamless Design",
+      "Wrinkle-resistant",
+      "Standard White"
+    ],
+    "specifications": {
+      "Material": "Non-Reflective Poly-Vinyl",
+      "Color": "Pure White (Hex: #FFFFFF)",
+      "Size": "10ft x 12ft",
+      "Surface": "Matte Anti-Glare",
+      "Compatibility": "Universal Stand System"
+    },
+    "warranty": "Manufacturing Defects Cover",
+    "replacement": "10 Days Replacement",
+    "cod": true
+  },
+  {
+    "id": "item-015",
+    "name": "Stealth Field Chrono",
+    "price": 43200,
+    "originalPrice": 54000,
+    "description": "Matte black titanium casing with a sapphire crystal face. A rugged yet refined timepiece for the modern explorer.",
+    "category": "Watches",
+    "image": "https://images.unsplash.com/photo-1539874754764-5a96559165b0?auto=format&fit=crop&q=80&w=800",
+    "rating": 4.9,
+    "reviews": 18,
+    "featured": true,
+    "stock": 5,
+    "offers": [
+      "Field Pack included",
+      "No Cost EMI for 12 months"
+    ],
+    "highlights": [
+      "Titanium Casing",
+      "Sapphire Crystal",
+      "Field Proven",
+      "Stealth Aesthetics"
+    ],
+    "specifications": {
+      "Case": "Grade 5 Titanium",
+      "Glass": "Anti-Reflective Sapphire",
+      "Lume": "Super-LumiNova BGW9",
+      "Bezel": "Ceramic Unidirectional",
+      "Strap": "Military-Grade FKM Rubber"
+    },
+    "detailImages": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1508685096489-7aac29683938?auto=format&fit=crop&q=80&w=800"
+    ],
+    "warranty": "2 Year Limited Warranty",
+    "replacement": "7 Days Policy",
+    "cod": false
+  },
+  {
+    "id": "item-016",
+    "name": "Precision Cinema Lens Kit",
+    "price": 100000,
+    "originalPrice": 125000,
+    "description": "Professional 3-lens set for high-fidelity cinematography. Includes hard-shell carrying case and calibration charts.",
+    "category": "Studio",
+    "image": "https://images.unsplash.com/photo-1617005082133-548c4dd27f35?auto=format&fit=crop&q=80&w=800",
+    "rating": 5.0,
+    "reviews": 7,
+    "featured": true,
+    "stock": 4,
+    "offers": [
+      "Cinematography Masterclass free",
+      "Insured Shipping across India"
+    ],
+    "highlights": [
+      "Professional Grade Glass",
+      "3-Lens Collection",
+      "Hard-shell Carrying Case",
+      "High-Fidelity Optics"
+    ],
+    "specifications": {
+      "Kit Lenses": "24mm, 50mm, 85mm",
+      "Aperture": "T1.5 constant",
+      "Mount": "PL Mount / EF Support",
+      "Focus Thr": "300 Degrees",
+      "Filter Thread": "95mm"
+    },
+    "warranty": "3 Year Optical Warranty",
+    "replacement": "Custom Inspection Replacement",
+    "cod": false
+  },
+  {
+    "id": "item-017",
+    "name": "Stealth Performance Workstation",
+    "price": 196000,
+    "originalPrice": 245000,
+    "description": "High-performance mobile workstation with a minimalist midnight chassis. Features professional-grade thermal management and a high-color-accuracy display for elite technical workflows.",
+    "category": "Assets",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80&w=1200",
+    "rating": 4.9,
+    "reviews": 42,
+    "featured": true,
+    "stock": 5,
+    "offers": [
+      "Workspace Software Suite free",
+      "Priority Technical Support"
+    ],
+    "highlights": [
+      "Midnight Chassis",
+      "High Color Accuracy",
+      "Elite Workflows",
+      "Thermal Management"
+    ],
+    "specifications": {
+      "Processor": "Core i9 14th Gen",
+      "GPU": "RTX 4000 Ada Generation",
+      "RAM": "64GB DDR5 5600MHz",
+      "Storage": "2TB NVMe Gen4",
+      "Display": "16-inch 4K OLED (100% P3)"
+    },
+    "detailImages": [
+      "https://images.unsplash.com/photo-1547082299-de196ea013d6?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&q=80&w=800"
+    ],
+    "warranty": "3 Year On-Site Warranty",
+    "replacement": "Business Continuity Plan",
+    "cod": false
+  },
+  {
+    "id": "item-020",
+    "name": "Mivi Fort Sonic 100 Soundbar",
+    "price": 3999,
+    "originalPrice": 12999,
+    "description": "2.2 Channel Soundbar with Multi-Input & EQ Modes. Delivering 100W of cinematic sound power for an immersive audio experience.",
+    "category": "Studio",
+    "image": "https://rukminim2.flixcart.com/image/1536/1536/xif0q/speaker/n/g/u/-original-imahf78dfsvhnddf.jpeg?q=90",
+    "images": [
+      "https://rukminim2.flixcart.com/image/1536/1536/xif0q/speaker/7/w/b/-original-imahf78dn7ttyzbq.jpeg?q=90",
+      "https://rukminim2.flixcart.com/image/1536/1536/xif0q/speaker/y/0/o/-original-imahf78dww3vxake.jpeg?q=90",
+      "https://rukminim2.flixcart.com/image/1536/1536/xif0q/speaker/d/x/s/-original-imahf8hrjgfy8pbk.jpeg?q=90",
+      "https://rukminim2.flixcart.com/image/1536/1536/xif0q/speaker/l/r/3/-original-imahf78dzjcr5s36.jpeg?q=90"
+    ],
+    "detailImages": [
+      "https://rukminim2.flixcart.com/image/892/396/cms-rpd-img/e4ece1bf6b74468b86e914704e9bfe29_198c7afc4d4_RPD__01.png?q=60",
+      "https://rukminim2.flixcart.com/image/892/396/cms-rpd-img/d2abe48630904d5fb6b77d31c346aace_198c7afd1dd_RPD__02.png?q=60",
+      "https://rukminim2.flixcart.com/image/892/396/cms-rpd-img/87366eebe01e4e6dad4cbcdcd81e454f_198c7afed62_RPD__03.png?q=60",
+      "https://rukminim2.flixcart.com/image/892/396/cms-rpd-img/f76ef169e8d14785ae1abd8537e99973_198c7aff120_RPD__04.png?q=60",
+      "https://rukminim2.flixcart.com/image/892/396/cms-rpd-img/cf8320dfd8c144c9b0f70dd51e21b8ce_198c7b005d6_RPD__05.png?q=60",
+      "https://rukminim2.flixcart.com/image/892/396/cms-rpd-img/04570ac4ff0f4b17b81b9d906347b3fc_198c7b011b2_RPD__06.png?q=60",
+      "https://rukminim2.flixcart.com/image/892/396/cms-rpd-img/1f9266fe7932489584c057997d55d68b_198c7b0230b_RPD__07.png?q=60",
+      "https://rukminim2.flixcart.com/image/892/396/cms-rpd-img/c7457c6f928a4e7faf058abe7d5a30d4_198c7b02f02_RPD__08.png?q=60",
+      "https://rukminim2.flixcart.com/image/892/396/cms-rpd-img/bf479cd1ce7241adb6885c3e9bb8b870_198c7b03fab_RPD__09.png?q=60",
+      "https://rukminim2.flixcart.com/image/892/396/cms-rpd-img/4f0824d4989344a6b6876ffb316e2251_198c7b04dd3_RPD__10.png?q=60",
+      "https://rukminim2.flixcart.com/image/892/396/cms-rpd-img/477f46bd045b4fbd977cb31d1762396e_198c7b05df0_RPD__11.png?q=60",
+      "https://rukminim2.flixcart.com/image/892/396/cms-rpd-img/90d46b61d6414719a9ede054b1b04097_198c7b06f61_RPD__12.png?q=60",
+      "https://rukminim2.flixcart.com/image/892/396/cms-rpd-img/956ddba9e70e41f2befbf8d2172232a8_198c7b07e29_RPD__13.png?q=60",
+      "https://rukminim2.flixcart.com/image/892/396/cms-rpd-img/8f19792cfb654fd39ccbf4c49e97c289_198c7b09a93_RPD__15.png?q=60",
+      "https://rukminim2.flixcart.com/image/892/396/cms-rpd-img/b3e25c63423c479eadc22fd3cd33e02b_198c7b0a9d3_RPD__16.png?q=60",
+      "https://rukminim2.flixcart.com/image/892/396/cms-rpd-img/70cde50540f44c04ac309d21ac775193_198c7b0b8d8_RPD__17.png?q=60",
+      "https://rukminim2.flixcart.com/image/892/396/cms-rpd-img/c7b562bb6b0546f78d6b8d4df9f8e321_198c7b0d4bb_RPD__18.png?q=60"
+    ],
+    "rating": 4.7,
+    "reviews": 1250,
+    "featured": true,
+    "stock": 15,
+    "offers": [
+      "Bank Offer: Get upto ₹500 Off on select cards",
+      "Special Price: Get extra ₹9000 off (price inclusive of cashback/coupon)",
+      "No Cost EMI: Unlock ₹1 Lakh credit with zero interest",
+      "Buy this product and get upto ₹500 off on select items"
+    ],
+    "highlights": [
+      "100 W Power Output: For a theater-like experience",
+      "2.2 Channel: Built-in Dual Subwoofers & Dual Radiators",
+      "Bluetooth v5.3: Latest seamless connectivity",
+      "Multi-Input Styles: USB, AUX, Coaxial, Optical & HDMI(ARC)",
+      "Dynamic EQ Modes: News, Movies & Music for optimized audio",
+      "Premium Design: Sleek and modern matte finish"
+    ],
+    "specifications": {
+      "Model Name": "Fort Sonic 100",
+      "Type": "Soundbar",
+      "Bluetooth": "Yes (v5.3)",
+      "Configuration": "2.2 Channel",
+      "Power Output": "100 W",
+      "Frequency Response": "40Hz - 20000Hz",
+      "Wall Mountable": "Yes",
+      "Compatible Devices": "Television, Laptop, Mobile, Tablet",
+      "Connectivity": "USB, AUX, Optical, Coaxial, HDMI(ARC)"
+    },
+    "warranty": "1 Year Warranty from the date of purchase",
+    "replacement": "7 Days Replacement",
+    "cod": true
+  },
+  {
+    "id": "item-022",
+    "name": "TYRELL Men Cotton Blend Shirt Pant Set",
+    "price": 680,
+    "originalPrice": 1499,
+    "description": "Superior comfort meets modern ethnic style. This 1 SHIRT AND 1 PANT set is crafted from a premium cotton blend, featuring detailed prints and a regular fit for the contemporary professional.",
+    "category": "Apparel",
+    "image": "https://rukminim1.flixcart.com/image/1104/1104/xif0q/ethnic-set/a/x/w/l-half-sleeve-pair-torontocn-original-imahf73gcg8st9gk.jpeg?q=90",
+    "images": [
+      "https://rukminim1.flixcart.com/image/1104/1104/xif0q/ethnic-set/a/x/w/l-half-sleeve-pair-torontocn-original-imahf73gcg8st9gk.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1104/1104/xif0q/shirt/n/o/y/m-combo-black-deer-original-imagz8ttwffxddtk.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1104/1104/xif0q/shirt/1/h/h/m-flower-torontocn-original-imahasbgfzmkzuvk.jpeg?q=90"
+    ],
+    "rating": 3.7,
+    "reviews": 497,
+    "featured": true,
+    "stock": 0,
+    "offers": [
+      "Apply for Card and Instant EMI",
+      "Get upto ₹500 Off*",
+      "No Cost EMI* | Unlock ₹1 Lakh"
+    ],
+    "highlights": [
+      "Fabric: Cotton Blend",
+      "Pattern: Printed",
+      "1 Shirt and 1 Pant Set",
+      "Casual Occasion Wear",
+      "Modern Tailored Fit"
+    ],
+    "specifications": {
+      "Fabric": "Cotton Blend",
+      "Pattern": "Printed",
+      "Set Includes": "1 Shirt and 1 Pant",
+      "Fit": "Regular",
+      "Sleeve": "Half Sleeve",
+      "Occasion": "Casual",
+      "Color": "WHITE1",
+      "Ideal For": "Men"
+    },
+    "warranty": "1 Year Brand Warranty",
+    "replacement": "10 Days Return Policy",
+    "cod": true
+  },
+  {
+    "id": "item-023",
+    "name": "KILLER KL8040 Lightweight Casual Loafers",
+    "price": 749,
+    "originalPrice": 3499,
+    "description": "Engineered for daily deployment. These lightweight shoe loafers feature advanced soft-cushion technology for maximum comfort during long-duration technical tasks.",
+    "category": "Shoes",
+    "image": "https://rukminim1.flixcart.com/image/1536/1536/xif0q/shoe/l/3/y/12-kl8040-olive-12-killer-olive-original-imahkkrrpgj5xemh.jpeg?q=90",
+    "images": [
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/shoe/l/3/y/12-kl8040-olive-12-killer-olive-original-imahkkrrpgj5xemh.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/shoe/b/d/h/12-kl8040-olive-12-killer-olive-original-imahkkrrzgfykbwu.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/shoe/1/l/n/12-kl8040-olive-12-killer-olive-original-imahkkrrg4zxfgv7.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/shoe/e/d/j/12-kl8040-olive-12-killer-olive-original-imahkkrryrzxcbta.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/shoe/z/p/c/12-kl8040-olive-12-killer-olive-original-imahkkrrajeazu2h.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/shoe/m/h/y/5-kl8040-olive-5-killer-olive-original-imahkkrrbyvfmq5m.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/shoe/e/1/i/12-kl8040-olive-12-killer-olive-original-imahkkrrzrrzny9p.jpeg?q=90"
+    ],
+    "rating": 3.9,
+    "reviews": 52845,
+    "featured": true,
+    "stock": 15,
+    "offers": [
+      "No Cost EMI* | Unlock ₹1 Lakh",
+      "Apply for Card and Instant EMI",
+      "Get upto ₹500 Off*"
+    ],
+    "highlights": [
+      "Outer Materials: Synthetic Leather",
+      "Soft Cushion Comfort Technology",
+      "Lightweight Construction",
+      "Casual Deployment Ready",
+      "High Durability Sole"
+    ],
+    "specifications": {
+      "Type": "Casual Loafers",
+      "Outer Material": "Synthetic Leather",
+      "Occasion": "Casual",
+      "Color": "OLIVE",
+      "Brand": "KILLER"
+    },
+    "warranty": "6 Months Manufacturing Warranty",
+    "replacement": "10 Days Return Policy",
+    "cod": true
+  },
+  {
+    "id": "item-024",
+    "name": "APPLE iPhone 17 Pro Max (Cosmic Orange, 256 GB)",
+    "price": 149900,
+    "originalPrice": 159900,
+    "description": "The ultimate iPhone. Featuring the A19 chip with 6-core processor for superfast multitasking and extensive gaming. The 6.9-inch all-screen OLED display delivers sharpest colors and a cinematic experience.",
+    "category": "Assets",
+    "image": "https://rukminim1.flixcart.com/image/1536/1536/xif0q/mobile/f/v/m/-original-imahft6chnx2vbuy.jpeg?q=90",
+    "images": [
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/mobile/f/v/m/-original-imahft6chnx2vbuy.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/mobile/m/n/c/-original-imahft6c3rbjysmg.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/mobile/t/1/p/-original-imahft6cag2fggja.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/mobile/b/o/v/-original-imahft6cvnadukgx.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/mobile/x/c/q/-original-imahft5njwbfyz5u.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/mobile/z/v/8/-original-imahft6cjegrw5sj.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/mobile/c/i/p/-original-imahft6chqfe38fp.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/mobile/z/b/l/-original-imahft6cbxgw9hsn.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/mobile/p/o/c/-original-imahft5nzmgz2agc.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/mobile/n/a/n/-original-imahft5nq7z4bnmn.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/mobile/l/z/q/-original-imahft57f3qjg325.jpeg?q=90"
+    ],
+    "rating": 4.7,
+    "reviews": 716,
+    "featured": true,
+    "stock": 6,
+    "offers": [
+      "Apply for Card and Instant EMI",
+      "Buy on No Cost EMI*",
+      "Buy now - Pay from June !"
+    ],
+    "highlights": [
+      "256 GB ROM",
+      "A19 Chip, 6 Core Processor | Hexa Core",
+      "48MP + 48MP + 48MP Rear Camera",
+      "18MP Front Camera",
+      "6.9 inch All Screen OLED Display"
+    ],
+    "specifications": {
+      "Model Name": "iPhone 17 Pro Max",
+      "Color": "Cosmic Orange",
+      "Storage": "256 GB",
+      "Processor": "A19 Chip",
+      "Display": "6.9 inch OLED",
+      "Rear Camera": "48MP + 48MP + 48MP",
+      "Front Camera": "18MP",
+      "Battery": "Upto 22 Hours"
+    },
+    "warranty": "Apple One (1) Year Limited Warranty",
+    "replacement": "7-day brand support",
+    "cod": true
+  },
+  {
+    "id": "item-025",
+    "name": "Apple MacBook Pro M3 Max",
+    "price": 389900,
+    "originalPrice": 429900,
+    "description": "The peak of portable performance. M3 Max brings massive power for even the most demanding workflows, while the 16-inch Liquid Retina XDR display provides the ultimate mobile studio experience.",
+    "category": "Assets",
+    "image": "https://rukminim1.flixcart.com/image/1536/1536/xif0q/computer/7/r/w/-original-imaguw3hpuzcwvdp.jpeg?q=90",
+    "images": [
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/computer/7/r/w/-original-imaguw3hpuzcwvdp.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/computer/h/g/4/-original-imaguw3hv8vkwnzq.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/computer/6/5/5/-original-imaguw3hy5dc6t32.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/computer/a/u/x/-original-imaguw3h5ukphhax.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/computer/a/j/o/-original-imaguw3hrfzxxdc8.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/computer/l/x/t/-original-imaguw3hvhtxsgah.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/computer/d/s/t/-original-imaguw3hpjsx3kag.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/computer/1/r/a/-original-imaguw3h2fjk3hym.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/computer/y/l/o/-original-imaguw3hs5zzurnw.jpeg?q=90",
+      "https://rukminim1.flixcart.com/image/1536/1536/xif0q/computer/r/k/a/-original-imaguw3hangcytyx.jpeg?q=90"
+    ],
+    "rating": 4.6,
+    "reviews": 4,
+    "featured": true,
+    "stock": 5,
+    "offers": [
+      "No Cost EMI* | Unlock ₹1 Lakh",
+      "Apply for Card and Instant EMI",
+      "Buy now - Pay from June !"
+    ],
+    "highlights": [
+      "Chip: Apple M3 Max (16-core CPU, 40-core GPU)",
+      "Display: 16-inch Liquid Retina XDR",
+      "Memory: 48GB Unified Memory",
+      "Storage: 1TB SSD",
+      "Battery Life: Up to 22 Hours"
+    ],
+    "specifications": {
+      "Model Name": "MacBook Pro",
+      "Color": "Space Black",
+      "Processor": "Apple M3 Max",
+      "RAM": "48 GB Unified",
+      "SSD": "1 TB",
+      "Screen Size": "16 inch",
+      "OS": "macOS Sonoma",
+      "Weight": "2.16 kg"
+    },
+    "warranty": "1 Year Limited Warranty",
+    "replacement": "No Returns",
+    "cod": true
+  }
+]
